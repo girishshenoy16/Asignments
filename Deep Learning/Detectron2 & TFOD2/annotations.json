@@ -1,0 +1,107 @@
+{
+    "images": [
+        {
+            "id": 0,
+            "file_name": "img_2.jpg",
+            "width": 300,
+            "height": 300
+        },
+        {
+            "id": 1,
+            "file_name": "img_0.jpg",
+            "width": 300,
+            "height": 300
+        },
+        {
+            "id": 2,
+            "file_name": "img_3.jpg",
+            "width": 300,
+            "height": 300
+        },
+        {
+            "id": 3,
+            "file_name": "img_1.jpg",
+            "width": 300,
+            "height": 300
+        },
+        {
+            "id": 4,
+            "file_name": "img_4.jpg",
+            "width": 300,
+            "height": 300
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 0,
+            "category_id": 1,
+            "bbox": [
+                50,
+                50,
+                200,
+                200
+            ],
+            "area": 40000,
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                50,
+                50,
+                200,
+                200
+            ],
+            "area": 40000,
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                50,
+                50,
+                200,
+                200
+            ],
+            "area": 40000,
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 3,
+            "category_id": 1,
+            "bbox": [
+                50,
+                50,
+                200,
+                200
+            ],
+            "area": 40000,
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 4,
+            "category_id": 1,
+            "bbox": [
+                50,
+                50,
+                200,
+                200
+            ],
+            "area": 40000,
+            "iscrowd": 0
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "object"
+        }
+    ]
+}
